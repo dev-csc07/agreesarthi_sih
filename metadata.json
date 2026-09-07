@@ -1,0 +1,7 @@
+{
+  "name": "AGREESARTHI",
+  "description": "Autonomous Precision Agriculture & Smart Rover Field Telemetry Cockpit",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
